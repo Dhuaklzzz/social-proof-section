@@ -1,0 +1,40 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.top {
+  display: flex;
+  gap: 30px;
+}
+
+.bottom {
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+}
+
+.left-top-box {
+  display: flex;
+  flex-direction: column;
+}
+
+.right-top-box {
+  display: flex;
+  flex-direction: column;
+}
+
+.row-box {
+  display: flex;
+}
+
+.pp {
+  display: flex;
+}
+
+.info-profile {
+  display: flex;
+  flex-direction: column;
+}
